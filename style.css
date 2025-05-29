@@ -1,0 +1,25 @@
+.Titulo {
+  color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+body{
+  background-color: black;
+  padding: 20px;
+}
+.Rectangulo {
+  background-color: white ;
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  text-align: left;
+
+}
+.Boton {
+  background-color: lightblue;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
